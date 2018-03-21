@@ -3,9 +3,9 @@ title: "PM2.5 level in Chengdu - Exploratory Data Analysis"
 author: "Pierre Baudin"
 date: "March 17, 2018"
 output:
-  pdf_document: default
   html_document:
     df_print: paged
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -44,7 +44,7 @@ library(dplyr) # data manipulation and pipe operator
 library(lubridate) # easy processing of time-based data
 
 # Set the working directory which contains the yearly historical data
-setwd("C:/Users/pierr/Desktop/ChengduPM25")
+setwd("C:/Users/pierr/Documents/GitHub/EDA_Portfolio/ChengduPM25")
 
 # Create a vector with the files names
 FileNames <- list.files(pattern = ".csv")
