@@ -1,0 +1,145 @@
+zone_pays;pays_code;pays_lib;nb_projet;nb_participation;montant_subvention;nb_coordination;geolocalisation
+Pays membres;DK;Danemark;1254;1763;713882073.43;471;56.26392, 9.501785
+Pays membres;IE;Irlande;941;1275;507114722.91;345;53.41291, -8.24389
+Pays membres;LV;Lettonie;191;232;46413735.2;30;56.879635, 24.603189
+Pays membres;RO;Roumanie;458;671;102417897.35;42;45.943161, 24.96676
+Pays membres;CY;Chypre;275;365;107624546.03;65;35.126413, 33.429859
+Pays membres;MT;Malte;88;114;17687734.77;18;35.937496, 14.375416
+Pays associés (potentiellement candidats);AL;Albanie;17;19;1944906.76;0;41.153332, 20.168331
+Pays tiers;CA;Canada;150;173;4338756.0;0;56.130366, -106.346771
+Pays tiers;UY;Uruguay;13;14;1820394.23;1;-32.522779, -55.765835
+Pays tiers;BY;Biélorussie;33;34;2475144.41;0;53.709807, 27.953389
+Pays tiers;SN;Sénégal;21;28;2747862.98;0;14.497401, -14.452362
+Pays tiers;AZ;Azerbaïdjan;6;6;77793.75;0;40.143105, 47.576927
+Pays tiers;ZM;Zambie;6;6;1518186.0;0;-13.133897, 27.849332
+Pays tiers;CI;Côte d'Ivoire;4;5;262987.34;0;7.539989, -5.54708
+Pays tiers;GH;Ghana;15;19;3820772.34;0;7.946527, -1.023194
+Pays associés;TN;Tunisie;35;45;5539369.95;1;33.886917, 9.537499
+Pays tiers;XK;Kosovo;9;10;880331.5;0;42.6430165, 20.953599
+Pays tiers;SG;Singapour;15;16;225491.25;0;1.352083, 103.819836
+Pays tiers;EC;Équateur;9;11;524665.0;0;-1.831239, -78.183406
+Pays tiers;NE;Niger;2;2;807232.5;0;17.607789, 8.081666
+Pays tiers;SO;Somalie;1;1;0.0;0;5.152149, 46.199616
+Pays tiers;BO;Bolivie;5;5;229048.75;0;-16.290154, -63.588653
+Pays tiers;LA;Laos;1;1;0.0;0;19.85627, 102.495496
+Pays tiers;PY;Paraguay;1;1;0.0;0;-23.442503, -58.443832
+Pays tiers;LR;Libéria;1;1;60625.0;0;6.428055, -9.429499
+Pays tiers;AF;Afghanistan;1;1;83577.5;0;33.93911, 67.709953
+Pays membres;CZ;Rép. Tchèque;627;826;189326985.32;80;49.817492, 15.472962
+Pays membres;SE;Suède;1573;2404;1007761064.74;426;60.128161, 18.643501
+Pays membres;FI;Finlande;1028;1558;637947802.79;306;61.92411, 25.748151
+Pays associés;IS;Islande;136;174;60587960.21;57;64.963051, -19.020835
+Pays membres;LU;Luxembourg;208;242;70614413.86;33;49.815273, 6.129583
+Pays tiers;MA;Maroc;43;46;3222390.45;0;31.791702, -7.09262
+Pays tiers;VN;Viêt Nam;19;23;1287945.0;0;14.058324, 108.277199
+Pays tiers;TH;Thaïlande;19;21;675531.25;0;15.870032, 100.992541
+Pays associés;MD;Rép. Moldave;34;43;3720069.46;2;47.411631, 28.369885
+Pays tiers;EG;Égypte;31;33;2978781.29;0;26.820553, 30.802498
+Pays tiers;AR;Argentine;78;99;3112155.74;0;-38.416097, -63.616672
+Pays tiers;JP;Japon;73;90;2211036.43;0;36.204824, 138.252924
+Pays tiers;CO;Colombie;31;34;1909869.75;0;4.570868, -74.297333
+Pays tiers;SZ;Swaziland;1;1;26250.0;0;-26.522503, 31.465866
+Pays tiers;DZ;Algérie;9;10;637462.52;0;28.033886, 1.659626
+Pays tiers;BI;Burundi;2;2;59281.25;0;-3.373056, 29.918886
+Pays tiers;LS;Lesotho;1;1;23250.0;0;-29.609988, 28.233608
+Pays tiers;MW;Malawi;7;9;2309564.94;0;-13.254308, 34.301525
+Pays tiers;CL;Chili;51;63;2113421.81;0;-35.675147, -71.542969
+Pays tiers;GD;Grenade;1;1;28132.5;0;12.262776, -61.604171
+Pays tiers;CM;Cameroun;7;7;702823.63;0;7.369722, 12.354722
+Pays tiers;LI;Liechtenstein;3;3;0.0;0;47.166, 9.555373
+Pays tiers;TM;Turkménistan;1;1;79807.5;0;38.969719, 59.556278
+Pays tiers;ID;Indonésie;11;15;956625.25;0;-0.789275, 113.921327
+Pays tiers;PE;Pérou;11;12;1393817.5;0;-9.189967, -75.015152
+Pays tiers;RW;Rwanda;4;6;1452306.25;0;-1.940278, 29.873888
+Pays tiers;GA;Gabon;2;3;820125.0;0;-0.803689, 11.609444
+Pays tiers;CD;Rép. démocratique du Congo;1;1;0.0;0;-5.199955, 21.7166297
+Pays tiers;MN;Mongolie;2;2;0.0;0;46.862496, 103.846656
+Pays tiers;SA;Arabie saoudite;2;2;0.0;0;23.885942, 45.079162
+Pays tiers;MR;Mauritanie;1;1;54375.0;0;21.00789, -10.940835
+Pays tiers;SC;Seychelles;1;1;79500.0;0;-4.679574, 55.491977
+Pays tiers;NI;Nicaragua;1;1;330000.0;0;12.865416, -85.207229
+Pays membres;AT;Autriche;1400;2139;796384927.77;383;47.516231, 14.550072
+Pays membres;BE;Belgique;2193;3485;1246088568.99;545;50.503887, 4.469936
+Pays membres;PL;Pologne;889;1253;277957864.7;165;51.919438, 19.145136
+Pays membres;IT;Italie;3667;7521;2405544175.02;1401;41.87194, 12.56738
+Pays associés;CH;Suisse;1505;1997;599464007.4;407;46.818188, 8.227512
+Pays membres;NL;Pays-Bas;2827;4969;2225903217.02;1065;52.132633, 5.291266
+Pays membres;PT;Portugal;1076;1705;468691052.66;289;39.399872, -8.224454
+Pays membres;GR;Grèce;1320;2203;655125088.49;311;39.074208, 21.824312
+Pays associés;UA;Ukraine;104;141;15935277.18;9;48.379433, 31.16558
+Pays associés;IL;Israël;706;876;490032355.4;331;31.046051, 34.851612
+Pays tiers;RU;Russie;71;99;2873534.88;0;61.52401, 105.318756
+Pays tiers;ZA;Afrique du Sud;102;144;21058734.11;1;-30.559482, 22.937506
+Pays associés (potentiellement candidats);MK;Macédoine;40;49;5654231.65;4;41.608635, 21.745275
+Pays tiers;MZ;Mozambique;8;8;1010658.0;0;-18.665695, 35.529562
+Pays tiers;ET;Éthiopie;18;20;2066968.75;0;9.145, 40.489673
+Pays tiers;JO;Jordanie;11;11;1314639.95;0;30.585164, 36.238414
+Pays tiers;TZ;Tanzanie;18;22;4858993.0;0;-6.369028, 34.888822
+Pays tiers;YE;Yémen;1;1;134073.75;0;15.552727, 48.516388
+Pays tiers;BW;Botswana;3;3;250882.29;0;-22.328474, 24.684866
+Pays tiers;KZ;Kazakhstan;6;7;302152.5;0;48.019573, 66.923684
+Pays tiers;UZ;Ouzbékistan;3;3;65232.5;0;41.377491, 64.585262
+Pays tiers;BJ;Bénin;3;3;783270.88;0;9.30769, 2.315834
+Pays tiers;VE;Venezuela;5;6;0.0;0;6.42375, -66.58973
+Pays tiers;CR;Costa Rica;10;10;542851.25;0;9.748917, -83.753428
+Pays tiers;QA;Qatar;2;2;0.0;0;25.354826, 51.183884
+Pays tiers;ST;Sao Tomé-et-Principe;1;1;0.0;0;0.18636, 6.613081
+Pays tiers;PH;Philippines;4;4;90000.0;0;12.879721, 121.774017
+Pays tiers;AO;Angola;1;1;0.0;0;-11.202692, 17.873887
+Pays membres;FR;France;3672;7652;3024626247.36;1445;46.227638, 2.213749
+Pays membres;DE;Allemagne;4682;9654;4422713023.08;1740;51.165691, 10.451526
+Pays membres;HU;Hongrie;537;693;179979262.54;110;47.162494, 19.503304
+Pays membres;SI;Slovénie;469;664;170789145.0;91;46.151241, 14.995463
+Pays membres;HR;Croatie;246;330;48279577.66;21;45.1, 15.2
+Pays membres;EE;Estonie;286;366;93237865.08;86;58.595272, 25.013607
+Pays membres;BG;Bulgarie;264;368;57336715.12;30;42.733883, 25.48583
+Pays tiers;BR;Brésil;80;132;9221745.38;0;-14.235004, -51.92528
+Pays tiers;AU;Australie;139;164;4801384.75;0;-25.274398, 133.775136
+Pays associés (potentiellement candidats);RS;Serbie;176;252;60737957.92;28;44.016521, 21.005859
+Pays tiers;TW;Taïwan;31;42;704085.0;0;23.69781, 120.960515
+Pays tiers;MX;Mexique;35;55;723072.5;0;23.634501, -102.552784
+Pays associés;AM;Arménie;16;19;573497.5;2;40.069099, 45.038189
+Pays tiers;LB;Liban;13;14;1175753.56;0;33.854721, 35.862285
+Pays tiers;UG;Ouganda;22;26;5381449.8;0;1.373333, 32.290275
+Pays tiers;NA;Namibie;7;8;582941.0;0;-22.95764, 18.49041
+Pays tiers;BF;Burkina Faso;11;12;5585554.98;0;12.238333, -1.561593
+Pays tiers;IR;Iran;8;10;418750.0;0;32.427908, 53.688046
+Pays tiers;KR;Corée du Sud;39;48;717572.59;0;35.3985008, 127.937111
+Pays tiers;KE;Kenya;40;58;9122484.5;0;-0.023559, 37.906193
+Pays tiers;MU;Maurice;2;2;24750.0;0;-20.348404, 57.552152
+Pays tiers;CV;Cap-Vert;8;8;178788.75;0;16.002082, -24.013197
+Pays tiers;NZ;Nouvelle-Zélande;34;37;499980.0;0;-40.900557, 174.885971
+Pays tiers;KG;Kirghizistan;5;5;365495.0;0;41.20438, 74.766098
+Pays tiers;MY;Malaisie;17;22;617128.36;0;4.210484, 101.975766
+Pays tiers;LY;Libye;1;1;43350.0;0;26.8234472, 18.1236723
+Pays tiers;TJ;Tadjikistan;2;2;159807.5;0;38.861034, 71.276093
+Pays tiers;TG;Togo;1;1;27967.5;0;8.619543, 0.824782
+Pays tiers;MC;Monaco;1;1;0.0;0;43.750298, 7.412841
+Pays tiers;KH;Cambodge;2;2;57000.0;0;12.565679, 104.990963
+Pays tiers;AE;Émirats arabes unis;1;1;0.0;0;23.424076, 53.847818
+Pays membres;ES;Espagne;4047;8108;2634394147.47;1930;40.463667, -3.74922
+Pays membres;GB;Royaume-Uni;5497;9312;4162552995.48;2863;55.378051, -3.435973
+Pays associés;NO;Norvège;816;1205;545612238.13;241;60.472024, 8.468946
+Pays membres;SK;Slovaquie;251;339;77392872.77;36;48.669026, 19.699024
+Pays membres;LT;Lituanie;217;267;35700169.17;43;55.169438, 23.881275
+Pays associés (potentiellement candidats);TR;Turquie;373;511;115423410.23;87;38.963745, 35.243322
+Pays tiers;US;Etats-Unis;680;907;30748788.82;1;37.09024, -95.712891
+Pays associés (potentiellement candidats);ME;Monténégro;13;21;1422828.2;3;42.708678, 19.37439
+Pays associés;BA;Bosnie-Herzégovine;27;43;3881429.97;5;43.915886, 17.679076
+Pays associés;GE;Géorgie;20;23;1937491.99;0;41.6809707, 44.0287382
+Pays tiers;CN;Chine;139;295;3657932.25;0;35.86166, 104.195397
+Pays tiers;IN;Inde;30;34;1635970.0;0;20.593684, 78.96288
+Pays tiers;GT;Guatemala;3;3;167826.25;0;15.783471, -90.230759
+Pays tiers;NG;Nigeria;11;11;1180848.5;0;9.081999, 8.675277
+Pays tiers;IQ;Irak;4;4;329598.75;0;33.223191, 43.679291
+Pays tiers;PS;Palestine;6;7;293325.0;0;42.094445, 17.266614
+Pays tiers;ML;Mali;4;4;201875.0;0;17.570692, -3.996166
+Pays tiers;MG;Madagascar;4;7;88000.0;0;-18.766947, 46.869107
+Pays tiers;JM;Jamaïque;5;5;1407315.0;0;18.109581, -77.297508
+Pays tiers;SL;Sierra Leone;1;1;0.0;0;8.460555, -11.779889
+Pays tiers;CU;Cuba;11;12;584607.5;0;21.521757, -77.781167
+Pays tiers;NP;Népal;3;4;1148092.5;0;28.394857, 84.124008
+Pays tiers;PK;Pakistan;6;8;810216.25;0;30.375321, 69.345116
+Pays tiers;LK;Sri Lanka;3;5;649850.0;0;7.873054, 80.771797
+Pays tiers;BD;Bangladesh;2;2;579610.75;0;23.684994, 90.356331
+Pays tiers;MM;Birmanie;1;1;50000.0;0;21.913965, 95.956223
